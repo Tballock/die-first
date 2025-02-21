@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://djsonkuk3g68c"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Main" type="Node2D" parent="."]
+
+[node name="Room" type="Node2D" parent="Main"]
