@@ -11,20 +11,54 @@
             "id": "ad0bc1a7c4b977d6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 478.26272020059037,
-                  "y": 2447.343401004855,
-                  "zoom": -3.666666666666667
-                }
+                "file": "IMG/DALL·E 2025-03-03 11.38.31 - A 16-bit pixel art isometric version of a dark, vast room inspired by H.P. Lovecraft's aesthetic. The room has ancient stone walls, covered in pixelat.webp"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-image",
+              "title": "DALL·E 2025-03-03 11.38.31 - A 16-bit pixel art isometric version of a dark, vast room inspired by H.P. Lovecraft's aesthetic. The room has ancient stone walls, covered in pixelat"
+            }
+          },
+          {
+            "id": "d1edd927b0bce79e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "IMG/Imagem do WhatsApp de 2025-03-03 à(s) 12.08.24_2d2eb593.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Imagem do WhatsApp de 2025-03-03 à(s) 12.08.24_2d2eb593"
+            }
+          },
+          {
+            "id": "ce0244e1dc053e5d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "IMG/Pasted image 20250303121214.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250303121214"
+            }
+          },
+          {
+            "id": "defe5d227293eb25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Die first.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Die first"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Die first.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Die first"
             }
           },
           {
@@ -116,12 +150,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Die first.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Die first"
             }
           },
           {
@@ -145,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Die first.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Die first"
             }
           }
         ]
@@ -171,21 +205,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad0bc1a7c4b977d6",
+  "active": "defe5d227293eb25",
   "lastOpenFiles": [
-    "DALL·E 2025-03-03 16.15.38 - A set of 128x96 pixel floor tiles for a cosmic horror game, designed in a dark, cracked stone texture intertwined with grotesque, fleshy roots. The ro.webp",
-    "DALL·E 2025-03-03 16.22.20 - A set of 128x96 pixel floor tiles for a cosmic horror game, designed with old, cracked ceramic tiles. The tiles should be aged, with some broken edges.webp",
-    "DALL·E 2025-03-03 16.12.27 - A set of 128x96 pixel floor tiles for a cosmic horror game, designed in a dark, decayed wooden texture. The tiles should have cracks, scratches, and s.webp",
-    "DALL·E 2025-03-03 16.14.59 - A set of 128x96 pixel floor tiles for a cosmic horror game, designed in a dark, cracked stone texture. The tiles should have visible fractures, erosio.webp",
-    "DALL·E 2025-03-03 16.04.00 - A 16-bit pixel art isometric version of a mysterious room where the character awakens. The space is dimly lit, with a cold, eerie atmosphere. The wood.webp",
-    "DALL·E 2025-03-03 12.01.27 - A 16-bit pixel art isometric version of a space that has become a true eldritch nightmare, radiating cosmic horror. The floor is completely shattered,.webp",
-    "DALL·E 2025-03-03 12.02.36 - A 16-bit pixel art isometric version of a space that has become a terrifying eldritch nightmare, now overtaken by biomechanical horror. The floor is a.webp",
-    "DALL·E 2025-03-03 12.09.14 - A 16-bit pixel art isometric version of a space that has fully transcended reality, becoming an incomprehensible alien nightmare. The floor is now an .webp",
-    "DALL·E 2025-03-03 12.10.17 - A 16-bit pixel art isometric version of the original room where this entire cosmic nightmare began. The space is unsettlingly ordinary, yet hints of s.webp",
-    "Imagem do WhatsApp de 2025-03-03 à(s) 12.08.24_2d2eb593.jpg",
-    "DALL·E 2025-03-03 11.38.31 - A 16-bit pixel art isometric version of a dark, vast room inspired by H.P. Lovecraft's aesthetic. The room has ancient stone walls, covered in pixelat.webp",
+    "mapa mental.canvas",
+    "IMG/Pasted image 20250303164215.png",
+    "IMG/DALL·E 2025-03-03 16.22.20 - A set of 128x96 pixel floor tiles for a cosmic horror game, designed with old, cracked ceramic tiles. The tiles should be aged, with some broken edges.webp",
+    "IMG/Pasted image 20250303121214.png",
+    "IMG/Imagem do WhatsApp de 2025-03-03 à(s) 12.08.24_2d2eb593.jpg",
+    "IMG/DALL·E 2025-03-03 11.38.31 - A 16-bit pixel art isometric version of a dark, vast room inspired by H.P. Lovecraft's aesthetic. The room has ancient stone walls, covered in pixelat.webp",
+    "IMG",
+    "IMG/DALL·E 2025-03-03 16.15.38 - A set of 128x96 pixel floor tiles for a cosmic horror game, designed in a dark, cracked stone texture intertwined with grotesque, fleshy roots. The ro.webp",
+    "IMG/DALL·E 2025-03-03 16.12.27 - A set of 128x96 pixel floor tiles for a cosmic horror game, designed in a dark, decayed wooden texture. The tiles should have cracks, scratches, and s.webp",
+    "IMG/DALL·E 2025-03-03 16.14.59 - A set of 128x96 pixel floor tiles for a cosmic horror game, designed in a dark, cracked stone texture. The tiles should have visible fractures, erosio.webp",
+    "IMG/DALL·E 2025-03-03 16.04.00 - A 16-bit pixel art isometric version of a mysterious room where the character awakens. The space is dimly lit, with a cold, eerie atmosphere. The wood.webp",
+    "IMG/DALL·E 2025-03-03 12.01.27 - A 16-bit pixel art isometric version of a space that has become a true eldritch nightmare, radiating cosmic horror. The floor is completely shattered,.webp",
     "Untitled.md",
-    "Untitled.canvas",
     "Die first.md"
   ]
 }
