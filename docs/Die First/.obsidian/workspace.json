@@ -11,30 +11,17 @@
             "id": "ad0bc1a7c4b977d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 682.9496335875947,
+                  "y": 1116.7678943207484,
+                  "zoom": -1.9999999999999996
+                }
               },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d64fc8f40ea1fe23",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6a5ef5634633615f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -129,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -158,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Untitled.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -186,6 +173,19 @@
   },
   "active": "ad0bc1a7c4b977d6",
   "lastOpenFiles": [
-    "Welcome.md"
+    "DALL·E 2025-03-03 12.01.27 - A 16-bit pixel art isometric version of a space that has become a true eldritch nightmare, radiating cosmic horror. The floor is completely shattered,.webp",
+    "DALL·E 2025-03-03 12.02.36 - A 16-bit pixel art isometric version of a space that has become a terrifying eldritch nightmare, now overtaken by biomechanical horror. The floor is a.webp",
+    "DALL·E 2025-03-03 12.09.14 - A 16-bit pixel art isometric version of a space that has fully transcended reality, becoming an incomprehensible alien nightmare. The floor is now an .webp",
+    "DALL·E 2025-03-03 12.10.17 - A 16-bit pixel art isometric version of the original room where this entire cosmic nightmare began. The space is unsettlingly ordinary, yet hints of s.webp",
+    "Imagem do WhatsApp de 2025-03-03 à(s) 12.08.24_2d2eb593.jpg",
+    "DALL·E 2025-03-03 11.38.31 - A 16-bit pixel art isometric version of a dark, vast room inspired by H.P. Lovecraft's aesthetic. The room has ancient stone walls, covered in pixelat.webp",
+    "DALL·E 2025-03-03 11.38.37 - A 16-bit pixel art isometric version of a dark, vast room inspired by H.P. Lovecraft's aesthetic. The room has ancient stone walls, covered in pixelat.webp",
+    "DALL·E 2025-03-03 11.39.50 - A 16-bit pixel art isometric version of a dark, eerie office inspired by H.P. Lovecraft's aesthetic. The room has ancient stone walls, covered in pixe.webp",
+    "DALL·E 2025-03-03 11.40.24 - A 16-bit pixel art isometric version of a classic office. The room has wooden walls and flooring, with bookshelves filled with neatly arranged books. .webp",
+    "DALL·E 2025-03-03 11.41.36 - A 16-bit pixel art isometric version of an abandoned office, left untouched for centuries. The wooden walls and flooring are now cracked and covered i.webp",
+    "DALL·E 2025-03-03 11.42.05 - A 16-bit pixel art isometric version of an extremely abandoned office, left in complete ruin for centuries. The wooden walls and flooring are severely.webp",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Die first.md"
   ]
 }
