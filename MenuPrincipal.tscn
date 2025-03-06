@@ -1,0 +1,205 @@
+[gd_scene load_steps=12 format=3 uid="uid://b7eg2628yqth0"]
+
+[ext_resource type="Script" path="res://menu_principal.gd" id="1_ja0rm"]
+[ext_resource type="Texture2D" uid="uid://b33wda63trbqw" path="res://DALL·E 2025-03-03 11.36.39 - A 16-bit pixel art sprite sheet of a character with timeless clothing, including a plain shirt, pants, and boots. The sprite sheet includes different .webp" id="1_obepn"]
+[ext_resource type="FontFile" uid="uid://b7h8dmt1123mj" path="res://fonts/HelveticaNeue-Medium.otf" id="3_58y0x"]
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_5wiv8"]
+texture = ExtResource("1_obepn")
+expand_margin_left = 35.0
+expand_margin_top = 5.0
+expand_margin_bottom = 5.0
+modulate_color = Color(1, 1, 1, 0.384314)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_mc0mr"]
+border_color = Color(0.145098, 0.145098, 0.145098, 1)
+corner_radius_top_left = 10
+corner_radius_top_right = 10
+corner_radius_bottom_right = 10
+corner_radius_bottom_left = 10
+corner_detail = 1
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_c0goq"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_quee2"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_qkqgq"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_3newq"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_rwtkj"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_mmq2k"]
+bg_color = Color(1, 1, 1, 1)
+corner_radius_top_left = 8
+corner_radius_top_right = 8
+corner_radius_bottom_right = 8
+corner_radius_bottom_left = 8
+shadow_size = 4
+
+[node name="MenuPrincipal" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_ja0rm")
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 1.0
+offset_right = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StyleBoxTexture_5wiv8")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -100.0
+offset_top = 64.0
+offset_right = 100.0
+offset_bottom = 249.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/separation = 16
+
+[node name="Button" type="Button" parent="VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+theme_override_colors/font_color = Color(0.145098, 0.145098, 0.145098, 1)
+theme_override_font_sizes/font_size = 24
+theme_override_styles/focus = SubResource("StyleBoxFlat_mc0mr")
+theme_override_styles/disabled_mirrored = SubResource("StyleBoxFlat_c0goq")
+theme_override_styles/disabled = SubResource("StyleBoxFlat_quee2")
+theme_override_styles/hover_pressed_mirrored = SubResource("StyleBoxFlat_qkqgq")
+theme_override_styles/hover_pressed = SubResource("StyleBoxFlat_3newq")
+theme_override_styles/pressed = SubResource("StyleBoxFlat_rwtkj")
+theme_override_styles/normal = SubResource("StyleBoxFlat_mmq2k")
+text = "Start game"
+
+[node name="Button2" type="Button" parent="VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+theme_override_colors/font_color = Color(0.145098, 0.145098, 0.145098, 1)
+theme_override_font_sizes/font_size = 24
+theme_override_styles/focus = SubResource("StyleBoxFlat_mc0mr")
+theme_override_styles/disabled_mirrored = SubResource("StyleBoxFlat_c0goq")
+theme_override_styles/disabled = SubResource("StyleBoxFlat_quee2")
+theme_override_styles/hover_pressed_mirrored = SubResource("StyleBoxFlat_qkqgq")
+theme_override_styles/hover_pressed = SubResource("StyleBoxFlat_3newq")
+theme_override_styles/pressed = SubResource("StyleBoxFlat_rwtkj")
+theme_override_styles/normal = SubResource("StyleBoxFlat_mmq2k")
+text = "Controls"
+
+[node name="Button3" type="Button" parent="VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+theme_override_colors/font_color = Color(0.145098, 0.145098, 0.145098, 1)
+theme_override_font_sizes/font_size = 24
+theme_override_styles/focus = SubResource("StyleBoxFlat_mc0mr")
+theme_override_styles/disabled_mirrored = SubResource("StyleBoxFlat_c0goq")
+theme_override_styles/disabled = SubResource("StyleBoxFlat_quee2")
+theme_override_styles/hover_pressed_mirrored = SubResource("StyleBoxFlat_qkqgq")
+theme_override_styles/hover_pressed = SubResource("StyleBoxFlat_3newq")
+theme_override_styles/pressed = SubResource("StyleBoxFlat_rwtkj")
+theme_override_styles/normal = SubResource("StyleBoxFlat_mmq2k")
+text = "Exit"
+
+[node name="Label" type="Label" parent="."]
+_import_path = NodePath("")
+unique_name_in_owner = false
+process_mode = 0
+process_priority = 0
+process_physics_priority = 0
+process_thread_group = 0
+physics_interpolation_mode = 2
+auto_translate_mode = 0
+editor_description = ""
+visible = true
+modulate = Color(1, 1, 1, 1)
+self_modulate = Color(1, 1, 1, 1)
+show_behind_parent = false
+top_level = false
+clip_children = 0
+light_mask = 1
+visibility_layer = 1
+z_index = 0
+z_as_relative = true
+y_sort_enabled = false
+texture_filter = 0
+texture_repeat = 0
+material = null
+use_parent_material = false
+clip_contents = false
+custom_minimum_size = Vector2(0, 0)
+layout_direction = 0
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -226.0
+offset_top = -160.0
+offset_right = 236.0
+offset_bottom = -42.0
+grow_horizontal = 2
+grow_vertical = 2
+rotation = 0.0
+scale = Vector2(1, 1)
+pivot_offset = Vector2(0, 0)
+size_flags_horizontal = 1
+size_flags_vertical = 4
+size_flags_stretch_ratio = 1.0
+localize_numeral_system = true
+tooltip_text = ""
+focus_neighbor_left = NodePath("")
+focus_neighbor_top = NodePath("")
+focus_neighbor_right = NodePath("")
+focus_neighbor_bottom = NodePath("")
+focus_next = NodePath("")
+focus_previous = NodePath("")
+focus_mode = 0
+mouse_filter = 2
+mouse_force_pass_scroll_events = true
+mouse_default_cursor_shape = 0
+theme = null
+theme_type_variation = &""
+theme_override_colors/font_color = Color(0.843137, 0, 0, 1)
+theme_override_colors/font_shadow_color = Color(0, 0, 0, 1)
+theme_override_fonts/font = ExtResource("3_58y0x")
+theme_override_font_sizes/font_size = 130
+text = "Die First"
+label_settings = null
+horizontal_alignment = 0
+vertical_alignment = 0
+autowrap_mode = 0
+justification_flags = 163
+clip_text = false
+text_overrun_behavior = 0
+ellipsis_char = "…"
+uppercase = false
+tab_stops = PackedFloat32Array()
+lines_skipped = 0
+max_lines_visible = -1
+visible_characters = -1
+visible_characters_behavior = 0
+visible_ratio = 1.0
+text_direction = 0
+language = ""
+structured_text_bidi_override = 0
+structured_text_bidi_override_options = []
+script = null
+
+[connection signal="pressed" from="VBoxContainer/Button" to="." method="_on_start_pressed"]
+[connection signal="pressed" from="VBoxContainer/Button2" to="." method="_on_menu_pressed"]
+[connection signal="pressed" from="VBoxContainer/Button3" to="." method="_on_exit_3_pressed"]
