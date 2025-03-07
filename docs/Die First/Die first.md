@@ -4,3 +4,9 @@ Em Die First, você não é apenas caçado pelos horrores extra planares — voc
 
 Proposta:
 Terror, sobrevivência e psicológico
+
+
+O jogo se torna mais difícil conforme o jogador **morre e adiciona Ghouls ao mundo**.
+- Se o jogador errar demais, pode **ficar preso em um ciclo de mortes inevitáveis**.
+- Criaturas podem começar a reagir **de forma diferente** dependendo da quantidade de sanidade do jogador.
+- O terror psicológico aumenta progressivamente, criando uma experiência única para cada tentativa.
