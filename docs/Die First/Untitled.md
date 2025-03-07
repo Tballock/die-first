@@ -1,81 +1,32 @@
-Usar nossas habilidades correlatas a área de Design de produto para criar um jogo simples polido usando as capacidades que temos em esquisa e arte.
-Usar o poder da amizade para criar um portifólio inicial com uma qualidade superior
-Mas o que eu tenho haver com isso?  
-Por que estou aqui?  
-Eu não vou participar da sua pirâmide.
-Estudando sobre a area e conversando com pessoas pude observar que a principal diferença entre o meu trabalho e o do Flavio Lee era FERRAMENTAL
-E sim, eu posso desenvolver um jogo sozinho, o Barone de stardewvalley é um exemplo de que é possivel e que pode ser bom.
-Eu discordo.  
-Acho que tudo ali é adorável, mas poderia, caralho. DEVERIA ser 50 vezes mais polidos. Stardew valey merecia VR com ai em cada boneco. A dungeon deveria ser mais loca que Capiro 1,2,3 ou quatro e deveria influenciar na cidade  
-DEVERIA DAR PARA PEGAR CASADA!
-E aqui vocês se encaixam.  
-  
-Jogos estão presos a um monolito, repetimos mecanicas, graficos e roteiros pois estamos presos em uma câmera de eco que cheira a cheetos bola e só tem luz no monitor,
-Quero que a Marineide, leitora ávida goste o suficiente da história para jogar o jogo e descobrir que video games são legais,!
+### **1.1 Estrutura Geral das Salas**
 
-Quero fazer jogos que possam ser jogados de qualquer forma. QUe qualquer um possa aproveitar e que o nerdola ensebado de cheetos tenha que dizer: COROI!
+- O jogo contém **512 salas**, dispostas na estrutura de um **Enneacube (Hipercubo 9D)**.
+- Cada sala possui **9 portas**, conectando-a a **9 salas vizinhas** dentro da estrutura multidimensional.
+- O jogador deve navegar por esse espaço tentando seguir um **caminho correto**, baseado na sequência de **Pi**, que se manifesta em números sobre as portas.
+- A **sala inicial** tem o número **31**, que era originalmente "3.1", mas a vírgula foi formada pelo sangue do protagonista ao cair.
+- As portas seguem a sequência **41 - 59 - 26 - 53 - 58 - 97 - 93 - 23 - 84...**, representando o caminho correto pelo hipercubo.
 
+### **1.2 Navegação e Percepção do Ambiente**
+- Como cada sala tem **9 portas**, o jogador pode escolher **diferentes direções**.
+- O número correto na porta só pode ser visto se a **sanidade** do jogador estiver no nível necessário.
+- Salas adentradas com a sanidade errada podem conter armadilhas, inimigos ou levá-lo a loops espaciais.
+- A progressão das salas não segue uma lógica euclidiana convencional; algumas portas podem levar a versões distorcidas de salas já visitadas.
 
-Por que vocês? Por que eu gosto de vocês. Gosto das opiniões, da postura e principalmente do convivio e acho que todos nós podemos: 1- Trabalahr com o que trabalhamos no segmento de jogos, ao invez de sites e apps  
-2 - Podemos fazer jogos que serão um motivo de orgulho e referencia
-
-O que vamos fazer?  
-  
-A ideia é começar simples porém cativante. Produzir ideias que possam mostrar algum diferencial e que sejam calcadas na experiência.
-
-StardewValley, Undertale, Disco Elysium e Civilization I são ótimos exemplos do que estou falando.  
-  
-Stardew é o pai dos cozy games modernos e quando posto lado a lado com titulos como A vilinha do tanuki safado, ganha fazendo moonwalk.  
-  
-  
-O codigo de undertale é T ODO em uma folha e é o PIOR exemplo de código que eu já vi. A arte é sem graça e eu acho CURSED em vários momentos.  
-Chorei litros com essa merda.  
-  
-Disco elisym é lindo! Eu daria essa merda de presente para os meus amigos não videogaimeiros se isso não implicasse dar um console junto. ZERO mouse skills, mas é lindo na arte, genial no roteiro e divertido de se elaborar.  
-  
-Civ CRIOU um estilo. Em sando um 486 de processador
+### **1.3 Elementos Dinâmicos das Salas**
+- Algumas salas podem se **transformar** após o jogador entrar e sair várias vezes.
+- A sanidade influencia a **aparência das salas** e o comportamento das portas.
+- Criaturas podem se movem entre salas erradas, tornando a navegação mais perigosa.
+- Certas portas podem mudar de posição se o jogador **olhar para outro lado** ou voltar para uma sala anterior.
+- Algumas salas podem apresentar **ecos temporais**, onde fragmentos de diálogos ou sombras do passado aparecem.
 
 
-Como funciona:   
-Como todos aqui devem saber, sou um ateu, anarquista iconoclasta.  
-  
-Então estou propondo uma metodologia organizacional que reflita isso.  
-  
-Cargos e papéis plenamente empoderados que tem como diretiva o que estabelecemos de metas para o projeto.
+---
+## **2️⃣ Sistema de Sanidade e Percepção da Realidade**
 
+- O jogador inicia com **12 pontos de sanidade**.
+- 123
+- Para ver a porta correta na **sala 8**, a sanidade precisa estar em **7 pontos**.
+- A cada sala correta atravessada, o jogador perde **0.625 pontos de sanidade** para garantir que ao final do percurso ele esteja com 7 pontos restantes.
+- Se a sanidade chegar a **0, o jogador morre** e um **Ghoul** surge na sala onde ocorreu a morte.
 
-GPT CITAR A ESTRUTURA ORGANIZACIONAL DA VALVE e as escolhas que fizemos
-
-
-
-Vamos separar todas as camadas possíveis. A idéia é ter uma grande quantidade de ferreiros japoneses autistas com OCT (toc tão forte que fica em ordem alfabética) da montanha em cada uma dessa etapas.  
-  
-Isso significa:  
-1 - Nem todos serão videogaimeiros de nascença  
-2 - Talvez alguns nem sejam videogameiros, mas queiram chegar onde estamos indo nos termos que estamos estabelecendo aqui. Sejam de curto, médio ou longo prazo.  
-3 - Queremos os MELHORES em cada lugar.  
-  
-  
-Isso também significa que podemos/devemos tercerizar ou buscar parcerias em cada uma das partes que fomos carentes ou que não compreender aquilo que consideramos a essência do nosso bonde.
-
-Aqui estou seguindo a cadeia apresentada pela XXXXX no NERDCAST XXXX sobre jogos.  
-Estou CONCATENANDO diversas etapas dentro de lançamento, pois não só esta longe, como foge do primeiro passo: gerar portifólio.
-
-
-Esse papeis são os que considerei indivisiveis para a qualidade minima do MVP. Conclusão que cheguei depois de ouvir as referencias linkadas aqui.  
-  
-E como estamos seguindo a estrutura de REDE, nosso vinculo é com as pessoas, seus papeis podem e talvez devam mudar de tempos em tempos ou durante algum periodo.
-
-TODO MUNDO TEM UMA HISTÓRIA.  
-  
-E com a formatação correta um cara que gosta de Lasers, dinossauros e metal pode jogar um jogo introspectivo sobre uma garota cuidando da mãe.  
-  
-Pode ser sobre um garoto procurando sua sunga na escola.  
-  
-Ou a produção de um musical que GERE um musical.  
-  
-Eu não quero fazer a minha história. Quero fazer as nossas.
-
-VAMOS CRIAR A GRANDE ERA DOS VIDEO GAMES.  
-  
-Vamos fazer boomers, marombeiros, e fifeiros descobrirem que essa é uma mídia envolvente, densa e capaz de te dar o que nenhuma das outra pode.
+---
