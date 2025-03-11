@@ -1,8 +1,25 @@
+# 🔮 Tarot & The Stages of Transformation
 
-| Estágio     | Carta do Tarot                        | Descrição                                                                                                                                                                                                                                                                                                                                                                                      |
-|-------------|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Negação** | **A Lua**                             | A carta da Lua representa ilusões, confusão e a dificuldade de enxergar a realidade como ela é. Assim como na fase de negação, onde a pessoa pode se recusar a aceitar a perda, a Lua simboliza o estado de incerteza e autoengano.                                                                                                                                                         |
-| **Raiva**   | **A Torre**                           | A Torre indica rupturas súbitas, destruição de estruturas e mudanças inesperadas. Na fase de raiva, sentimentos intensos e explosivos podem surgir, abalando as bases emocionais do indivíduo, semelhante ao impacto representado pela Torre.                                                                                                                                                |
-| **Barganha**| **O Enforcado**                       | O Enforcado simboliza sacrifício, espera e a busca por novas perspectivas. Na barganha, a pessoa tenta negociar ou encontrar alternativas para reverter a situação, refletindo a postura de suspensão e reflexão presente no Enforcado.                                                                                                                                                     |
-| **Depressão**| **Três de Espadas**                  | O Três de Espadas é associado à dor emocional, tristeza profunda e sofrimento. Esta carta reflete a fase de depressão, onde o indivíduo enfrenta a realidade da perda e sente intensamente a angústia e o luto. :contentReference[oaicite:2]{index=2}                                                                                                                                                          |
-| **Aceitação**| **A Morte**                          | A carta da Morte representa transformação, renascimento e novos começos. Embora possa parecer negativa, ela simboliza a aceitação do fim de um ciclo e a abertura para novas possibilidades, alinhando-se à fase de aceitação no processo de luto. :contentReference[oaicite:3]{index=3}                                                                                                                      |
+## 🌓 The Arcana of Emotional Evolution
+In *Die First*, the Tarot is not just a symbol—it is a **guide through the inevitable cycles of loss, transformation, and rebirth**. The following Major and Minor Arcana are mapped to different **stages of the journey**, mirroring the emotional and psychological shifts experienced in the labyrinth.
+
+---
+
+## 🎭 **Stages of Transition & Their Arcana**
+
+| **Stage**      | **Tarot Card**                  | **Description**  |
+|---------------|--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Denial**    | **🌙 The Moon**                | The Moon represents **illusion, confusion, and the inability to see reality clearly**. Just as in denial, where one **refuses to accept loss**, this card embodies **uncertainty and self-deception**. |
+| **Anger**     | **⚡ The Tower**                | The Tower signifies **sudden collapse, destruction, and upheaval**. In the anger stage, **intense emotions surge**, shaking the emotional foundations—just as **The Tower crumbles under its own weight**. |
+| **Bargaining**| **🔗 The Hanged Man**           | The Hanged Man symbolizes **sacrifice, waiting, and seeking new perspectives**. In bargaining, one **tries to negotiate or alter fate**, mirroring the card’s **pause and surrender**. |
+| **Depression**| **💔 Three of Swords**          | The Three of Swords is the card of **emotional pain, deep sorrow, and heartbreak**. It reflects **the raw suffering** experienced in the depression stage of loss and realization. |
+| **Acceptance**| **☠️ Death**                   | Death does not mean an end—it represents **transformation, rebirth, and new beginnings**. It aligns with the acceptance phase, where one **embraces the end of a cycle and steps into the unknown**. |
+
+---
+
+## 🔥 **Integration into Gameplay**
+Each of these cards will **shape key turning points** in the game, altering the **world, player abilities, and narrative choices**. Progression through these stages is **not linear**, and the deeper one goes, the more **the labyrinth reshapes itself**.
+
+---
+
+🔮 *The cards are drawn, the journey unfolds. But will you walk willingly, or fight against fate itself?*
