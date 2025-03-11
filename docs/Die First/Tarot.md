@@ -1,29 +1,46 @@
-Penso em usar as ilustações do Taro de Crowley como cartas de poderes.
-Gosto da representação cósmica que ele da as cartas e acredito que as ideias batem com a proposta do jogo
+# 🃏 Die First – The Arcana of Power
 
-Podemos usar as cartas em capitulos.
+## 🌌 Tarot as Power Cards
 
-| Nº  | Nome                                 | Significado                                                   | Curiosidades                                                                                         |
-|-----|--------------------------------------|---------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| 0   | O Louco (The Fool)                   | Inocência, potencial, espontaneidade, novas possibilidades.    | Representado por um jovem saltando para o desconhecido, cercado por símbolos alquímicos e cabalísticos. |
-| I   | O Mago (The Magus)                   | Habilidade, manipulação, poder da vontade, criatividade.       | Crowley o via como um mestre das palavras e símbolos, ligado a Hermes e Thoth.                         |
-| II  | A Sacerdotisa (The High Priestess)   | Mistério, intuição, conhecimento oculto.                       | Relacionada à Lua e ao inconsciente, tem forte conexão com a Cabala.                                   |
-| III | A Imperatriz (The Empress)           | Fertilidade, beleza, abundância, criatividade.                 | Ligada à deusa Vênus e à força vital feminina universal.                                              |
-| IV  | O Imperador (The Emperor)            | Autoridade, estrutura, ordem, poder masculino.                 | Representa a estabilidade e o domínio sobre a matéria.                                                |
-| V   | O Hierofante (The Hierophant)        | Sabedoria espiritual, ensino, dogmas.                          | Em Crowley, também representa o contato direto com verdades espirituais, não só instituições.          |
-| VI  | Os Amantes (The Lovers)              | Escolha, união, harmonia, dualidade.                           | Diferente do Tarot tradicional, enfatiza a necessidade de integração de opostos.                       |
-| VII | O Carro (The Chariot)                | Vontade, controle, superação, vitória.                         | Relacionado ao signo de Câncer, simboliza um guerreiro espiritual.                                     |
-| VIII| Ajustamento (Adjustment)             | Equilíbrio, justiça, karma.                                    | Crowley substituiu "Justiça" por "Ajustamento", enfatizando ação cármica.                              |
-| IX  | O Eremita (The Hermit)               | Sabedoria, introspecção, busca interior.                       | Associado à letra Yod no alfabeto hebraico e à lanterna da iluminação.                                 |
-| X   | Fortuna (Fortune)                    | Mudança, destino, ciclos da vida.                              | No Thoth, destaca o aspecto místico da roda da vida e o equilíbrio entre forças opostas.               |
-| XI  | Luxúria (Lust)                       | Paixão, energia criativa, transcendência.                      | Crowley alterou "Força" para "Luxúria", enfatizando o poder da energia kundalínica.                    |
-| XII | O Enforcado (The Hanged Man)         | Sacrifício, rendição, iluminação.                              | Representa uma entrega à transformação espiritual.                                                     |
-| XIII| A Morte (Death)                      | Transformação, renascimento, fim de ciclos.                    | No Thoth, é uma carta ativa, simbolizando mudança radical e necessária.                                |
-| XIV | A Arte (Art)                         | Integração, alquimia, síntese de opostos.                      | Crowley mudou "Temperança" para "Arte", enfatizando o trabalho alquímico interior.                     |
-| XV  | O Diabo (The Devil)                  | Matéria, desejo, ilusão, prisão mental.                        | Mais ligado à libertação dos medos e repressões do que ao mal absoluto.                                |
-| XVI | A Torre (The Tower)                  | Ruína, colapso, despertar súbito.                              | No Thoth, enfatiza a destruição da ilusão para a verdadeira iluminação.                                |
-| XVII| A Estrela (The Star)                 | Esperança, inspiração, conexão cósmica.                        | Fortemente ligada à deusa Nuit e à espiritualidade libertadora.                                        |
-| XVIII| A Lua (The Moon)                    | Ilusão, sonhos, confusão, inconsciente.                        | Representa o caminho para o desconhecido e os desafios da percepção.                                   |
-| XIX | O Sol (The Sun)                      | Iluminação, vitalidade, alegria.                               | Ligado à manifestação consciente da verdade e realização.                                             |
-| XX  | O Aeon (The Aeon)                    | Novo ciclo, renascimento espiritual.                           | Crowley substituiu "Julgamento" por "O Aeon", simbolizando a Nova Era de Hórus.                        |
-| XXI | O Universo (The Universe)            | Conclusão, realização, totalidade.                             | Representa o fim do caminho e a integração do todo.                                                   |
+I intend to use **Aleister Crowley’s Thoth Tarot** as **power cards** in the game. I appreciate the **cosmic representation** he gives to the Arcana, as it aligns with the **game’s thematic vision**.
+
+The cards can be integrated into **chapters**, each representing a key **aspect of power, fate, and transformation**.
+
+---
+
+## 🎴 The Major Arcana
+| Nº  | Name                          | Meaning                                                    | Curiosities                                                                 |
+|-----|-------------------------------|------------------------------------------------------------|-----------------------------------------------------------------------------|
+| 0   | The Fool                      | Innocence, potential, spontaneity, new possibilities.      | Depicted as a young figure leaping into the unknown, surrounded by alchemical and Kabbalistic symbols. |
+| I   | The Magus                     | Skill, manipulation, willpower, creativity.                | Crowley saw him as a master of words and symbols, linked to Hermes and Thoth. |
+| II  | The High Priestess            | Mystery, intuition, hidden knowledge.                      | Associated with the Moon and the subconscious, deeply connected to Kabbalah. |
+| III | The Empress                   | Fertility, beauty, abundance, creativity.                  | Linked to the goddess Venus and the universal feminine life force. |
+| IV  | The Emperor                   | Authority, structure, order, masculine power.              | Represents stability and dominance over the material world. |
+| V   | The Hierophant                | Spiritual wisdom, teaching, dogma.                         | In Crowley's vision, also symbolizes direct contact with spiritual truths beyond institutions. |
+| VI  | The Lovers                    | Choice, union, harmony, duality.                           | Unlike traditional Tarot, this emphasizes the integration of opposites. |
+| VII | The Chariot                   | Willpower, control, overcoming obstacles, victory.        | Linked to the Cancer sign, symbolizing a spiritual warrior. |
+| VIII| Adjustment                    | Balance, justice, karma.                                   | Crowley renamed “Justice” to **Adjustment**, emphasizing karmic action. |
+| IX  | The Hermit                    | Wisdom, introspection, inner search.                      | Associated with the Hebrew letter **Yod** and the lantern of illumination. |
+| X   | Fortune                       | Change, destiny, cycles of life.                          | In the Thoth Tarot, highlights the mystical aspect of life's wheel and the balance of opposing forces. |
+| XI  | Lust                          | Passion, creative energy, transcendence.                  | Crowley replaced **Strength** with **Lust**, focusing on Kundalini energy and primal power. |
+| XII | The Hanged Man                | Sacrifice, surrender, enlightenment.                      | Represents self-offering for profound transformation. |
+| XIII| Death                         | Transformation, rebirth, the end of cycles.               | Unlike traditional decks, Crowley’s **Death** is active, symbolizing radical change. |
+| XIV | Art                           | Integration, alchemy, synthesis of opposites.             | Crowley changed “Temperance” to **Art**, emphasizing inner alchemical work. |
+| XV  | The Devil                     | Matter, desire, illusion, mental imprisonment.            | More about **liberation from fears and repression** than absolute evil. |
+| XVI | The Tower                     | Ruin, collapse, sudden awakening.                         | In the Thoth deck, destruction is seen as necessary for true enlightenment. |
+| XVII| The Star                      | Hope, inspiration, cosmic connection.                     | Strongly linked to **Nuit**, the goddess of infinite space. |
+| XVIII| The Moon                     | Illusion, dreams, confusion, the subconscious.            | Represents the **journey into the unknown** and the challenges of perception. |
+| XIX | The Sun                       | Illumination, vitality, joy.                              | Connected to the **conscious manifestation of truth and fulfillment**. |
+| XX  | The Aeon                      | A new cycle, spiritual rebirth.                           | Crowley replaced **Judgment** with **The Aeon**, representing the **New Age of Horus**. |
+| XXI | The Universe                   | Completion, realization, totality.                        | Represents the **final step, the integration of the all**. |
+
+---
+
+## 🌒 Integration into the Game
+These cards will be used as **power elements**, unlocking different **abilities or paths** based on the Arcana drawn. They can define **chapters, player choices, and transformations**. 
+
+Each card represents **not just a power, but an existential shift**—an invitation to question reality and fate itself.
+
+---
+
+🃏 *The deck is shuffled. The cards are drawn. But do you control your destiny, or does it control you?*
