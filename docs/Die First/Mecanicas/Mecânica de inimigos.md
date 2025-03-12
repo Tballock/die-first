@@ -1,29 +1,45 @@
-### **1 Distribuição Inicial dos Monstros**
-- Não há inimigos na run inicial.
-- A primeira morte sempre gera um Gouhl
-- O número de inimigos é proporcional ao numero de mortes que o jogador teve.
+# 👁️ **Enemy System & Evolution in Die First**
 
-### **2 Criaturas**
-- O jogo conta nesse estagio com dois tipos de criaturas hostis:
-	- Gouhls - Mortos vivos que se intimidam com a luz e seguem o som do jogador
-	- Abominações - Criaturas surdas que seguem a luz
+## **1. Initial Enemy Distribution**
+- **The first run is enemy-free**—allowing the player to explore the labyrinth **before encountering true danger**.
+- The **first death always spawns a Ghoul**.
+- The **number of enemies increases proportionally** to the **player's total deaths**.
 
----
+<p></p>
 
-## ** Ghouls – Criaturas Geradas por Mortes**
 
-### **1 Como os monstros**
-- Sempre que o jogador **morre e reinicia o ciclo**, um **Ghoul** aparece na sala onde ocorreu a morte.
-- Um Ghouls que mataram o jogador sobem de nível
-- Ghouls se transformam em abominações ao atingir o nível 5
+## **2. Hostile Creatures**
+At this stage, the game introduces **two primary enemy types**:
 
-### **2 Comportamento dos Ghouls**
-- Os Ghouls **patrulham** suas salas e atacam o jogador se ele estiver longe de uma fonte de luz ou sem ela em mãos.
-- Se um Ghoul ver o jogador, ele **o persegue até outra sala**.
-- Ghouls seguem os sons do jogador
--  O jogador pode usar tochas lanternas e lamparinas das fases para evitar os inimigos.
+### **🧟 Ghouls – The Dead That Follow**
+- **Undead beings** that are **intimidated by light** and **hunt using sound**.
 
-### **3 Comportamento das Abominações**
-- Patrulham agressivamente **uma** sala 
-- São mais fortes que ghouls porem surdos
-- São atraídos pela luz e podem ser despistados.
+### **👁️ Abominations – The Lightbound Horrors**
+- **Blind creatures** that **ignore sound but relentlessly pursue sources of light**.
+
+
+
+## **3. Ghouls – Death-Born Entities**
+### **⚰️ How Ghouls Are Created**
+- Each time the player **dies and resets the cycle**, a **Ghoul appears** in the room where the death occurred.
+- **Ghouls that have previously killed the player level up**, becoming more dangerous.
+- At **level 5, Ghouls evolve into Abominations**, gaining new behaviors.
+
+### **🩸 Ghoul Behavior**
+- **Patrol their assigned rooms**, attacking players who are **too far from a light source** or without **a light in hand**.
+- If a **Ghoul sees the player**, it **pursues them into adjacent rooms**.
+- **Follows sounds**—footsteps, breathing, interactions.
+- The player can **use torches, lanterns, and in-game light sources** to **repel or manipulate them**.
+
+
+
+## **4. Abominations – The Lightborn Stalkers**
+### **👁️ Abomination Behavior**
+- **Aggressively patrol their territory**.
+- **Stronger than Ghouls** but **completely deaf**.
+- **Drawn to any source of light**, making them **both predictable and dangerous**.
+- **Can be evaded by manipulating light placement**.
+
+
+
+🕳️ *Each death spawns a shadow. The more you fall, the less light remains.*
